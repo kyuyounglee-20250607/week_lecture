@@ -13,5 +13,6 @@
 
 9. conada activate 가상환경이름  실행
 ```
-![image](https://github.com/user-attachments/assets/7601bfbf-e488-46dc-8c33-5c764d280b24)
+![image](https://github.com/user-attachments/assets/8b454125-c44e-4ecf-bb53-fd8a4cbb187b)
+
 
