@@ -7,13 +7,11 @@
 5. conda init  실행
 6. Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned   실행
 7. vscode  의 터미널 열면
-![image](https://github.com/user-attachments/assets/3e48fad8-1bb3-4fcb-a67a-db61ea6a471b)
+
 
 8. base 로 지작하는지 확인하기
 
 9. conada activate 가상환경이름  실행
-
-
-
-
 ```
+![image](https://github.com/user-attachments/assets/7601bfbf-e488-46dc-8c33-5c764d280b24)
+
